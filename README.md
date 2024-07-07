@@ -13,7 +13,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
-A brief description of the project, its purpose, and its goals. Explain why this project is useful and what problems it solves.
+This repository contains multiple files relating to the manuscriopt by Hicks et al. 
 
 ## Features
 List the key features of the project. Highlight what makes it unique and valuable.
